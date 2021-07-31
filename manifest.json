@@ -1,0 +1,12 @@
+{
+    "manifest_version" :2,
+    "name" : "Analog Clock",
+    "description" : "This is an Analog Clock like no other",
+    "version" : "1.0.0",
+    "browser_action" : {
+        "default_popup" : "index.html",
+        "default_icon" : "clock_icon.jpg"
+    },
+    "permissions" : ["activeTab"]
+
+}
